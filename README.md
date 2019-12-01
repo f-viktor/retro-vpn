@@ -10,8 +10,8 @@ Be sure to change network adapter metrics in windows.
 
 ## openvpn brief guide
 
-start your thing
-`systemctl start openvpn-server@server.service`
+start your thing  
+`systemctl start openvpn-server@server.service`  
 `systemctl status openvpn-server@server.service`
 
 go to easyrsa folder (obviously isntall openvpn and easyrsa beforehand) 
